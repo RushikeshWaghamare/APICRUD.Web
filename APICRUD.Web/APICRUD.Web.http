@@ -1,0 +1,6 @@
+@APICRUD.Web_HostAddress = http://localhost:5130
+
+GET {{APICRUD.Web_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
